@@ -1,6 +1,6 @@
 ---
-title: My blog!
+title:  The test blog of testiness
 
 ---
 <h3> Hello! </h3>
-<p>I hope I get this right.</p> 
+<p>Are you still there?</p> 
