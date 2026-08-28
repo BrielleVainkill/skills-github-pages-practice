@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: My blog!
 ---
+<h3> Hello! </h3>
